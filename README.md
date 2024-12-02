@@ -44,17 +44,17 @@ Pip (Python's package manager)
 2. Folder Structure
     Set up the folder structure as follows:
 
-    Advanced_QnA_Chatbot/
-    │
-    ├── advanced_qna.py               # Python backend with chatbot logic
-    ├── app.py               # Flask server for connecting frontend and backend
-    ├── data_set.json        # Dataset of questions and answers
-    │
-    ├── templates/           # Frontend templates folder
-    │   └── index.html       # HTML file for chatbot interface
-    │
-    ├── static/              # Static files folder
-        └── style.css        # CSS file for styling
+        Advanced_QnA_Chatbot/
+        │
+        ├── advanced_qna.py               # Python backend with chatbot logic
+        ├── app.py               # Flask server for connecting frontend and backend
+        ├── data_set.json        # Dataset of questions and answers
+        │
+        ├── templates/           # Frontend templates folder
+        │   └── index.html       # HTML file for chatbot interface
+        │
+        ├── static/              # Static files folder
+            └── style.css        # CSS file for styling
 
 
 3. Install Required Libraries
