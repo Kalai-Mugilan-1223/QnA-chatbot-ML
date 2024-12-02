@@ -1,0 +1,11 @@
+numpy
+torch
+scikit-learn
+transformers
+nltk
+flask
+
+
+
+Use this command to install the required libraries:
+pip install -r requirements.txt
